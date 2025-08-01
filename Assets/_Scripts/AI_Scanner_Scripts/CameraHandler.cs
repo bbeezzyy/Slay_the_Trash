@@ -16,7 +16,7 @@ public class CameraHandler : MonoBehaviour
     private bool isCameraReady = false;
     private Model model;
     private IWorker worker;
-    private string[] classLabels = { "food waste", "paper", "plastic" };
+    private string[] classLabels = { "food waste", "paper", "plastic bottle" };
 
     private Texture2D reusableTexture;
     private bool isProcessing = false;
