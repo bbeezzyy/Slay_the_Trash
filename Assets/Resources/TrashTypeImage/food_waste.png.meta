@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      food_waste_0: -2425137543392497808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

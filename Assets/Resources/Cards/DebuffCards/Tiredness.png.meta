@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiredness_0: 8313507302698035381
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
